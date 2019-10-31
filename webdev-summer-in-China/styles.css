@@ -1,0 +1,16 @@
+#arrival{font-size: 40px; color:#ff6666; font-style: normal;}
+#cotton{font-size:40px; color:#ff8080; font-family:normal}
+#paper{font-size:40px;color:#ff6666;font-style: normal}
+#river{font-size: 30px;color:#ff6666;font-style: normal}
+#studio{font-size:40px;color:#ff8080;font-style: normal}
+#ocean{font-size:40px;color:#ff8080;font-style: normal}
+body{background-color:#ffcccc}
+h1{text-align: center;}
+p{text-align: center}
+h2{text-align: center}
+a{font-size: 20px;color:#1a8cff;text-align: center}
+#image{text-align: center}
+#images{text-align: center}
+#pp{text-align: center}
+#alignright{float: right}
+#alignleft{float: left}
