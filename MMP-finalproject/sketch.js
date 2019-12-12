@@ -22,7 +22,7 @@ textStyle(BOLD);
 text('Smoking',100,330);
 stroke(152,153,153);
 fill(242, 242, 242);
-rect(378.5,278,15,70);
+rect(378.5,276,15,70);
 fill(230, 153, 0);
 rect(378.5,325,15,25);
     for (let i = 1; i < bugs.length; i++) {
